@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "@puppeteer/browsers": "^1.7.1",
-    "axios": "^1.5.1",
+    "axios": "^1.6.0",
     "commander": "^11.0.0",
     "enigma.js": "^2.12.0",
     "esbuild": "^0.19.4",
